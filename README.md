@@ -24,3 +24,6 @@ simulation.
 ## How to run the project
 The project is written for the OMNeT++ simulation enviroment, meaning in order to run 
 the project one needs OMNeT++ and to run the ini file.
+
+### Opening OMNeT++
+Entering the program file folder, running the cmd file with the comment omnetpp. 
